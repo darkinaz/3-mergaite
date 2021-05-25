@@ -10,7 +10,7 @@ _29 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://front-end-by-rimantas.github.io/28-grupe-mergaite/
+Site published at https://github.com/darkinaz/3-mergaite
 
 Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
