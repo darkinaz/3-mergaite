@@ -5,7 +5,7 @@ header {
     display: inline-block;
     width: 800px;
     margin-left: calc((100% - 800px) / 2);
-    margin-top: 20px;
+    margin-top: 25px;
 }
 header > img {
     float: left;
@@ -14,7 +14,7 @@ header > img {
 }
 nav {
     float: right;
-    margin-top: 16px;
+    margin-top: 10px;
 }
 a {
     float: left;
@@ -26,11 +26,11 @@ a {
     line-height: 20px;
     border: 5px solid transparent;
     color: #9E9E9E;
-/*border-radius: ; */
 }
 a:last-of-type {
     border-color: #9E9E9E;
     margin-left: 30px;
+    border-radius: 40px;
 }
 
 main    {

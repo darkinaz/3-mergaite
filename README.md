@@ -8,7 +8,7 @@
 
 _29 group website project_
 
-This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
+This project is for educational porpuses only. Pull request are welcome. Thank you for your cooperation!
 
 Site published at https://github.com/darkinaz/3-mergaite
 
@@ -23,4 +23,4 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 ## Authors
 
-[Rimantas](https://github.com/belauzas)
+[Mantvydas](https://github.com/darkinaz)
